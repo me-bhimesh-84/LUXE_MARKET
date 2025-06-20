@@ -50,7 +50,7 @@
 
 | Splash | Signup | Validation | Correct Format | Success |
 |--------|--------|------------|----------------|---------|
-| ![](screenshots/splash.jpg) | ![](screenshots/signup.jpg) | ![](screenshots/signupvalidation.jpg) | ![](screenshots/signupproperformat.jpg) | ![](screenshots/success.jpg) |
+| ![](screenshots/splash.png) | ![](screenshots/signup.png) | ![](screenshots/signupvalidation.png) | ![](screenshots/signupproperformat.jpg) | ![](screenshots/success.jpg) |
 
 | Login Validation | Login |
 |------------------|-------|
