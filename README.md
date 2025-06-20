@@ -78,6 +78,5 @@ npx expo start
 
 ## 📬 Contact
 
-**Developer**: [Your Name]  
-📧 Email: [your.email@example.com]  
-📱 Instagram: [@yourhandle]
+**Developer**: Bhimesh Kumar Mehra    
+📧 Email: kumarbhimesh870@gmail.com
