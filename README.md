@@ -40,6 +40,10 @@
 ✅ Toast notifications & alerts  
 ✅ Fully responsive for Android, iOS, and web (via Expo)
 
+Splash Screen
+![App Splash](./assets/splash.png)
+
+
 Here's a Walkthrough
 
 [![Watch the video](https://img.youtube.com/vi/XW3XZeKQPAk/hqdefault.jpg)](https://www.youtube.com/watch?v=XW3XZeKQPAk)
