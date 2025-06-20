@@ -40,6 +40,8 @@
 ✅ Toast notifications & alerts  
 ✅ Fully responsive for Android, iOS, and web (via Expo)
 
+
+[![Video Walkthrough](https://img.youtube.com/vi/VIDEO_ID/0.jpg)]([https://www.youtube.com/watch?v=VIDEO_ID](https://youtube.com/shorts/XW3XZeKQPAk?si=H1uvEY--pdMuetEb))
 ## 📦 Installation & Setup
 
 1. Clone this repo  
